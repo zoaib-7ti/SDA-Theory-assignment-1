@@ -1,4 +1,4 @@
-// services/ProposalService.js
+// services /ProposalService.js
 import ProposalRepository from "../repositories/ProposalRepository.js";
 import NotificationService from "./ NotificationService.js";
 
