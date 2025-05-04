@@ -1,4 +1,4 @@
-// services/NotificationService.js
+// sservices/NotificationService.js
 
 class NotificationService {
   constructor() {
